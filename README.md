@@ -11,6 +11,7 @@ This is my first time using the Spring
 Boot and the Spring Framework. I am
 following a tutorial in order to learn
 how to create a web app using Spring Boot.
+**This is purely a tutorial/learning experience.**
 After finishing this basic app, I plan
 to create my own web app using the concepts
 I have learned.
